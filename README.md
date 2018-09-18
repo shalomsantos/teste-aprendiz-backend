@@ -3,10 +3,10 @@ Este repositório foi criado com intuito de disponibilizar os pré-requisitos pa
 
 ## Introdução
 
-Este etapa do processo seletivo desejamos que você desenvolva um projeto prático de back-end.
+Este etapa do processo seletivo desejamos que você desenvolva um projeto prático de back-end.<br />
 Deverá ser criado a estrutura CRUD em PHP
 
-# Requisitos
+## Requisitos
 
 - HTML 5
 - CSS 3
@@ -16,9 +16,9 @@ Deverá ser criado a estrutura CRUD em PHP
 - MySQL
 
 
-# Critérios de avaliação 
+## Critérios de avaliação 
 
-Caso o projeto entregue seja enviado com todos os critérios acima, 
+Caso o projeto entregue seja enviado com todos os critérios acima, <br />
 serão levados em consideração também os seguintes conhecimentos:
 
 - Documentação
@@ -29,12 +29,12 @@ serão levados em consideração também os seguintes conhecimentos:
 - Testes
 
 
-# Processo de submissão
+## Processo de submissão
 
-O teste deve ser versionado no GitHub.
-Enviar o link para: mariafernandes@opovodigital.com
+O teste deve ser versionado e disponibilizado no GitHub do candidado.<br />
+Enviar o link para: mariafernandes@opovodigital.com<br />
 Com cópia para: brendacamara@opovodigital.com  e laryssa@opovodigital.com
 
 
-Boa sorte a todos e
+Boa sorte a todos e<br />
 Bom trabalho!!
