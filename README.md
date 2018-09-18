@@ -1,9 +1,9 @@
 # Teste Prático Back-end O POVO
-Este repositório foi criado com intuito de disponibilizar os pré-requisitos para teste de Desenvolvedor Back-end do Grupo de Comunicação O POVO
+Este repositório foi criado com intuito de disponibilizar os pré-requisitos e o para prático para se tornar um Desenvolvedor Jr. Back-end do Grupo de Comunicação O POVO
 
 ## Introdução
 
-Este etapa do processo seletivo desejamos que você desenvolva um projeto prático de back-end.<br />
+Esta etapa do processo seletivo desejamos que você desenvolva um projeto prático de back-end. 
 Deverá ser criado a estrutura CRUD em PHP
 
 ## Requisitos
@@ -18,7 +18,7 @@ Deverá ser criado a estrutura CRUD em PHP
 
 ## Critérios de avaliação 
 
-Caso o projeto entregue seja enviado com todos os critérios acima, <br />
+Caso o projeto entregue seja enviado com todos os critérios acima, 
 serão levados em consideração também os seguintes conhecimentos:
 
 - Documentação
