@@ -1,5 +1,5 @@
-# Teste Prático Back-end O POVO
-Este repositório foi criado com intuito de disponibilizar os pré-requisitos e o para prático para se tornar um Desenvolvedor Jr. Back-end do Grupo de Comunicação O POVO
+# Teste Prático Aprendiz Back-end O POVO
+Este repositório foi criado com intuito de disponibilizar os pré-requisitos e o para prático para se tornar um Aprendiz Back-end do Grupo de Comunicação O POVO
 
 ## Introdução
 
@@ -16,7 +16,7 @@ Deverá ser criado a estrutura CRUD em PHP
 - MySQL
 
 
-## Critérios de avaliação 
+## Critérios de Avaliação 
 
 Caso o projeto entregue seja enviado com todos os critérios acima, 
 serão levados em consideração também os seguintes conhecimentos:
@@ -29,7 +29,7 @@ serão levados em consideração também os seguintes conhecimentos:
 - Testes
 
 
-## Processo de submissão
+## Processo de Submissão
 
 O teste deve ser versionado e disponibilizado no GitHub do candidado.<br />
 Enviar o link para: mariafernandes@opovodigital.com<br />
