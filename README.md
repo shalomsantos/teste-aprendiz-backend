@@ -1,5 +1,5 @@
 # Teste Prático Aprendiz Back-end O POVO
-Este repositório foi criado com intuito de disponibilizar os pré-requisitos e o para prático para se tornar um Aprendiz Back-end do Grupo de Comunicação O POVO
+Este repositório foi criado com intuito de disponibilizar os pré-requisitos e o teste prático para se tornar um Aprendiz Back-end do Grupo de Comunicação O POVO
 
 ## Introdução
 
